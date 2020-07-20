@@ -1,5 +1,6 @@
 # Flight
-Flight is a 2D, single player, 3 level game where you have to pass the paper plane without getting struck by obstacles
+Flight is a 2D, single player, 3 level game where you have to pass the paper plane without getting struck by obstacles. 
+<sub><sup>This was made in our ealier stages of learning coding. Hope y'all enjoy!</sup></sub>
 
 ## Main Menu
 ![Capture](https://user-images.githubusercontent.com/43147809/87284664-3d7f6b80-c514-11ea-930c-5cc2dc91a88d.PNG)
